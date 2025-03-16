@@ -1,9 +1,15 @@
 ## Hi there 👋
 
 <div>
-  <h5>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)
-    🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</h5>
-
+  <p><b>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)</b><br>
+    🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</p>
+</div>
+<hr>
+<h4>Activities</h4>
+<div>
+<p> - President of Coala, a Coding Education Volunteer Club (2023.03 - 2024.03)</p>
+<p> - Community donation through coding education for students at Jaehyun High School (2023.07 - 2023.08)</p>
+  
 </div>
 
 
