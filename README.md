@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div>
+  <h3>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)</h3>
+  <h3>🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</h3>
+</div>
+
+
+
 <!--
 **yeomjungwoo/yeomjungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
