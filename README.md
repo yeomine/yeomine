@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div>
-  <h5>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)</h5>
-  <h5>🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</h5>
+  <h5>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)\\n🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</h5>
+
 </div>
 
 
