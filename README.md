@@ -3,6 +3,8 @@
 <div>
   <p><b>🏫Enrolled in ITM (IT & Management) at SeoulTech, South Korea.(2022.03 -)</b><p>
     <p>🏫Pursuing a dual degree in ITMB at Northumbria University, UK.(2022.03 -)</p>
+  
+  <p>⏸️ I’m currently on a leave of absence from university.(- 2026.02)</p>
 </div>
 
 ## Activities
