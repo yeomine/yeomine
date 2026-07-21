@@ -10,7 +10,7 @@
 
 | Period | Organization / Program | Role & Description |
 | :--- | :--- | :--- |
-| 2025.08 - Present | **GDG on Campus SeoulTech (5th)** | Organizer |
+| 2025.08 - 2026.07 | **GDG on Campus SeoulTech (5th)** | Organizer |
 | 2025.08 - 2025.11 | **KRX (Korea Exchange) [Happy Nuri] 15th** | Financial Education Volunteer |
 | 2025.03 - 2025.08 | **KB Kookmin Bank [IT's Your Life] 6th** | Trainee |
 | 2023.03 - 2024.02 | **ITM Major Dev Study & Volunteer Club 'Coala'** | President |
